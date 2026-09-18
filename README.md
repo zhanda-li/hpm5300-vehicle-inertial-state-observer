@@ -1,4 +1,8 @@
-## 面向运动载体的惯性状态观测器嵌入式开发与实验
+# HPM5300‑Vehicle‑Inertial‑State‑Observer
+Embedded Development and Experiment of Inertial State Observer for Moving Carrier
+
+**面向运动载体的惯性状态观测器嵌入式开发与实验**
+
 ---
 
 ## 项目简介
